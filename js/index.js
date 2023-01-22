@@ -20,8 +20,8 @@ function displayTime(){
     let link = document.getElementById('link');
     let link_bot = document.getElementById('link_bot');
     if(mo==1){
-      link.href="https://drive.google.com/drive/folders/1s-IoCatkp-InlGIMlKSlCNsDLoWu-9x9"
-      link_bot.href="https://drive.google.com/drive/folders/1s-IoCatkp-InlGIMlKSlCNsDLoWu-9x9"
+      link.href="https://drive.google.com/drive/folders/14MoVreA_LATNfWbXZGCrs1xLl_WO_C2q"
+      link_bot.href="https://drive.google.com/drive/folders/14MoVreA_LATNfWbXZGCrs1xLl_WO_C2q"
     }else if(mo==2){
       link.href="https://drive.google.com/drive/folders/1tdM1dWZDCLT4TsTR5-kCHxaBUkWX4KD5"
       link_bot.href="https://drive.google.com/drive/folders/1tdM1dWZDCLT4TsTR5-kCHxaBUkWX4KD5"
