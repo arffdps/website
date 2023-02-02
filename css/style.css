@@ -116,6 +116,14 @@ p{
   color:#52B9D5;
 }
 
+.icon-5{
+  color:#864747; 
+}
+
+.icon-5:hover{
+  color:#b43939;
+}
+
 
 .date{
   text-align: center;
